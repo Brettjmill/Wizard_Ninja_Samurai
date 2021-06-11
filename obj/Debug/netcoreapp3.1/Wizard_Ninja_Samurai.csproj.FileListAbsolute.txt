@@ -1,0 +1,13 @@
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.exe
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.deps.json
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.runtimeconfig.json
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.runtimeconfig.dev.json
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.dll
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.pdb
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.csprojAssemblyReference.cache
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.AssemblyInfoInputs.cache
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.AssemblyInfo.cs
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.csproj.CoreCompileInputs.cache
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.dll
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.pdb
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.genruntimeconfig.cache
